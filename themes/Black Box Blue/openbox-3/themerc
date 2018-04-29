@@ -1,0 +1,130 @@
+!! Black Box Blue - Openbox theme
+!! inspired by "Carbon" by p0ng, and the ever so popular Vista glass look
+
+!! Menu background
+menu.items.bg: flat gradient vertical
+menu.items.bg.color: #303030
+menu.items.bg.colorTo: #080808
+
+!! Menu text
+menu.items.text.color: #F7F7F7
+menu.items.justify: left
+menu.items.disabled.text.color: #A1A1A1
+
+!! Menu headers
+menu.title.bg: gradient splitvertical gradient flat
+menu.title.bg.color: #303030
+menu.title.bg.colorTo: #181818
+menu.title.text.color: #F7F7F7
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: gradient splitvertical gradient flat
+menu.items.active.bg.color: #2D87E0
+menu.items.active.bg.colorTo: #2975C2
+menu.items.active.text.color: #FFFFFF
+menu.items.active.disabled.text.color: #DEDEDE
+
+!! Titlebar
+window.active.title.bg: gradient splitvertical gradient flat
+window.active.title.bg.color: #414141
+window.active.title.bg.colorTo: #202020
+window.inactive.title.bg: gradient splitvertical gradient flat
+window.inactive.title.bg.color: #595959
+window.inactive.title.bg.colorTo: #454545
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color: #f7f7f7
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #ededed
+
+!! Window buttons
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.image.color: #f7f7f7
+
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.unpressed.image.color: #f7f7f7
+
+window.active.button.pressed.bg: gradient splitvertical gradient flat
+window.active.button.pressed.bg.color: #1A9BDB
+window.active.button.pressed.bg.colorTo: #1787BF
+window.active.button.pressed.image.color: #f5f5f5
+
+window.active.button.toggled.pressed.bg: gradient splitvertical gradient flat
+window.active.button.toggled.pressed.bg.color: #1A9BDB
+window.active.button.toggled.pressed.bg.colorTo: #1787BF
+window.active.button.toggled.pressed.image.color: #f5f5f5
+
+window.active.button.hover.bg: gradient splitvertical gradient flat
+window.active.button.hover.bg.color: #00AAFF
+window.active.button.hover.bg.colorTo: #0094DE
+window.active.button.hover.image.color: #ffffff
+
+window.active.button.toggled.hover.bg: gradient splitvertical gradient flat
+window.active.button.toggled.hover.bg.color: #00AAFF
+window.active.button.toggled.hover.bg.colorTo: #0094DE
+window.active.button.toggled.hover.image.color: #ffffff
+
+window.active.button.disabled.bg: parentrelative
+window.active.button.disabled.image.color: #f7f7f7
+
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.unpressed.image.color: #ededed
+
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.unpressed.image.color: #ededed
+
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.pressed.image.color: #ededed
+
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.pressed.image.color: #ededed
+
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.hover.image.color: #f5f5f5
+
+window.inactive.button.toggled.hover.bg: parentrelative
+window.inactive.button.toggled.hover.image.color: #f5f5f5
+
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.disabled.image.color: #ededed
+
+!! Borders
+window.active.border.color: #202020
+window.inactive.border.color: #454545
+window.active.title.separator.color: #202020
+window.inactive.title.separator.color: #454545
+
+window.active.handle.bg:                                        parentrelative
+window.active.handle.bg.color:                                  #CECECE
+
+window.active.grip.bg:                                          gradient splitvertical gradient flat
+window.active.grip.bg.color:                                    #414141
+window.active.grip.bg.colorTo:                                  #202020
+
+window.inactive.handle.bg:                                      parentrelative
+window.inactive.handle.bg.color:                                #CECECE
+
+window.inactive.grip.bg:                                        gradient splitvertical gradient flat
+window.inactive.grip.bg.color:                                  #595959
+window.inactive.grip.bg.colorTo:                                #454545
+
+border.width: 1
+padding.width: 3
+padding.height: 3
+window.handle.width: 1
+window.active.client.color:  #202020
+window.inactive.client.color:  #454545
+window.client.padding.width: 1
+window.client.padding.height: 1
+menu.overlap: 0
+
+!! Font shadows
+menu.items.font:shadow=0:shadowtint=30
+
+!! On-screen displays
+osd.bg: gradient vertical flat
+osd.bg.color: #303030
+osd.bg.colorTo: #080808

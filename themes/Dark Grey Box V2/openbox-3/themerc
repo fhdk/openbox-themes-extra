@@ -1,0 +1,140 @@
+menu.title.bg:			raised gradient diagonal
+menu.title.bg.color:		rgb:90/94/98
+menu.title.bg.colorTo:		rgb:20/24/28
+menu.title.text.color:		#F7F7F7
+menu.title.text.justify:	center
+
+menu.items.bg:			sunken gradient diagonal
+menu.items.bg.color:		rgb:10/20/30
+menu.items.bg.colorTo:		rgb:70/80/90
+menu.items.text.color:		#f5f5f5
+menu.items.disabled.text.color: #A1A1A1
+
+menu.items.justify:		center
+
+menu.items.active.bg:			raised gradient diagonal
+menu.items.active.bg.color:		rgb:90/94/98
+menu.items.active.bg.colorTo:		rgb:20/24/28
+menu.items.active.text.color:		#FFFFFF
+menu.items.active.disabled.text.color:  #DEDEDE
+
+menu.bullet.image.color: 		rgb:90/a0/b0
+menu.bullet.selected.image.color: 	#FFFFFF
+
+window.active.title.bg:			raised gradient vertical
+window.active.title.bg.color:		rgb:80/84/88
+window.active.title.bg.colorTo:		rgb:30/34/38
+
+window.inactive.title.bg:		flat gradient vertical
+window.inactive.title.bg.color:		rgb:50/54/58
+window.inactive.title.bg.colorTo:	#969696
+
+window.active.label.bg:			raised gradient vertical
+window.active.label.bg.color:		rgb:10/20/30
+window.active.label.bg.colorTo:		rgb:70/80/90
+window.active.label.text.color:		white
+window.inactive.label.bg:		flat gradient vertical
+window.inactive.label.bg.color:		#969696
+window.inactive.label.bg.colorTo:	rgb:40/50/60
+window.inactive.label.text.color:	#ededed
+window.label.text.justify:		center
+
+window.active.button.unpressed.bg:		raised gradient diagonal
+window.active.button.unpressed.bg.color:	rgb:90/94/98
+window.active.button.unpressed.bg.colorTo:	rgb:20/24/28
+window.active.button.unpressed.image.color:	#F7F7F7
+
+window.active.button.toggled.unpressed.bg:		raised gradient diagonal
+window.active.button.toggled.unpressed.bg.color:	rgb:90/94/98
+window.active.button.toggled.unpressed.bg.colorTo:	rgb:20/24/28
+window.active.button.toggled.unpressed.image.color:	#F7F7F7
+
+window.active.button.hover.bg:			raised gradient diagonal
+window.active.button.hover.bg.color:		rgb:90/94/98
+window.active.button.hover.bg.colorTo:		#A82525
+window.active.button.hover.image.color:		#FFFFFF
+
+window.active.button.toggled.hover.bg:			raised gradient diagonal
+window.active.button.toggled.hover.bg.color:		rgb:90/94/98
+window.active.button.toggled.hover.bg.colorTo:		#A82525
+window.active.button.toggled.hover.image.color:		#FFFFFF
+
+window.active.button.pressed.bg:		sunken gradient diagonal
+window.active.button.pressed.bg.color:		rgb:20/40/50
+window.active.button.pressed.bg.colorTo:	#912020
+window.active.button.pressed.image.color:	#F5F5F5
+
+window.active.button.toggled.pressed.bg:		sunken gradient diagonal
+window.active.button.toggled.pressed.bg.color:		rgb:20/40/50
+window.active.button.toggled.pressed.bg.colorTo:	#912020
+window.active.button.toggled.pressed.image.color:	#F5F5F5
+
+window.active.button.disabled.bg:		raised gradient diagonal
+window.active.button.disabled.bg.color:		rgb:90/94/98
+window.active.button.disabled.bg.colorTo:	rgb:20/24/28
+window.active.button.disabled.image.color:	#F7F7F7
+
+window.inactive.button.unpressed.bg:		raised gradient diagonal
+window.inactive.button.unpressed.bg.color:	rgb:50/54/58
+window.inactive.button.unpressed.bg.colorTo:	#969696
+window.inactive.button.unpressed.image.color:	#EDEDED
+
+window.inactive.button.toggled.unpressed.bg:		raised gradient diagonal
+window.inactive.button.toggled.unpressed.bg.color:	rgb:50/54/58
+window.inactive.button.toggled.unpressed.bg.colorTo:	#969696
+window.inactive.button.toggled.unpressed.image.color:	#EDEDED
+
+window.inactive.button.hover.bg:		raised gradient diagonal
+window.inactive.button.hover.bg.color:		rgb:50/54/58
+window.inactive.button.hover.bg.colorTo:	#8A8A8A
+window.inactive.button.hover.image.color:	#F5F5F5
+
+window.inactive.button.toggled.hover.bg:		raised gradient diagonal
+window.inactive.button.toggled.hover.bg.color:		rgb:50/54/58
+window.inactive.button.toggled.hover.bg.colorTo:	#8A8A8A
+window.inactive.button.toggled.hover.image.color:	#F5F5F5
+
+window.inactive.button.pressed.bg:		raised gradient diagonal
+window.inactive.button.pressed.bg.color:	rgb:50/54/58
+window.inactive.button.pressed.bg.colorTo:	#969696
+window.inactive.button.pressed.image.color:	#EDEDED
+
+window.inactive.button.toggled.pressed.bg:		raised gradient diagonal
+window.inactive.button.toggled.pressed.bg.color:	rgb:50/54/58
+window.inactive.button.toggled.pressed.bg.colorTo:	#969696
+window.inactive.button.toggled.pressed.image.color:	#EDEDED
+
+window.inactive.button.disabled.bg:		raised gradient diagonal
+window.inactive.button.disabled.bg.color:	rgb:50/54/58
+window.inactive.button.disabled.bg.colorTo:	#969696
+window.inactive.button.disabled.image.color:	#EDEDED
+
+window.active.client.color:	#6E6E6E
+window.inactive.client.color:	#969696
+
+window.active.handle.bg:		flat solid
+window.active.handle.bg.color:		#6E6E6E
+
+window.inactive.handle.bg:		flat solid
+window.inactive.handle.bg.color:	#969696
+
+window.active.grip.bg:			flat vertical gradient
+window.active.grip.bg.color:		#DBDBDB
+window.active.grip.bg.colorTo:		#C2C2C2
+
+window.inactive.grip.bg:		flat vertical gradient
+window.inactive.grip.bg.color:		#DBDBDB
+window.inactive.grip.bg.colorTo:	#C2C2C2
+
+border.color:				#4F4F4F
+padding.width:				2
+padding.height: 			2
+borderWidth:				1
+menu.border.width: 			1
+window.handle.width:			1
+window.client.padding.width: 		1
+window.client.padding.height: 		1
+
+window.active.label.text.font:
+menu.title.text.font:
+menu.items.font:

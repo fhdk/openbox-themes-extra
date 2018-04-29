@@ -1,0 +1,192 @@
+!! Blue Elegance Openbox theme
+
+!! Menu background
+menu.items.bg: flat solid
+menu.items.bg.color: #ededed
+
+menu.separator.color: #3A87BA
+
+!! Menu text
+menu.items.text.color: #000000
+menu.items.justify: left
+menu.items.disabled.text.color: #606060
+
+!! Menu headers
+menu.title.bg: flat vertical gradient
+menu.title.bg.color: #4091C7
+menu.title.bg.colorTo: #3982B3
+menu.title.text.color: #f7f7f7
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: flat vertical gradient
+menu.items.active.bg.color: #6BA1D1
+menu.items.active.bg.colorTo: #5F90BA
+menu.items.active.bg.border.color: #b5c6da
+menu.items.active.text.color: #ffffff
+menu.items.active.disabled.text.color: #D4D4D4
+
+!! Titlebar
+window.active.title.bg: flat vertical gradient
+window.active.title.bg.color: #4091C7
+window.active.title.bg.colorTo: #3982B3
+
+window.inactive.title.bg: flat vertical gradient
+window.inactive.title.bg.color: #C4C4C4
+window.inactive.title.bg.colorTo: #ADADAD
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color: #f7f7f7
+window.active.label.text.font: shadow=y:shadowtint=20:shadowoffset=1
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #ededed
+
+!! Window buttons
+window.active.button.unpressed.bg: Flat Gradient splitvertical Border
+window.active.button.unpressed.bg.color: #46A0DB
+window.active.button.unpressed.bg.color.splitTo: #4093C9
+window.active.button.unpressed.bg.colorTo: #377CAB
+window.active.button.unpressed.bg.colorTo.splitTo: #2F6C94
+window.active.button.unpressed.bg.border.color: #377CAB
+window.active.button.unpressed.image.color: #f7f7f7
+
+window.active.button.toggled.unpressed.bg: Flat Gradient splitvertical Border
+window.active.button.toggled.unpressed.bg.color: #46A0DB
+window.active.button.toggled.unpressed.bg.color.splitTo: #4093C9
+window.active.button.toggled.unpressed.bg.colorTo: #377CAB
+window.active.button.toggled.unpressed.bg.colorTo.splitTo: #2F6C94
+window.active.button.toggled.unpressed.bg.border.color: #377CAB
+window.active.button.toggled.unpressed.image.color: #f7f7f7
+
+window.active.button.pressed.bg: Flat Gradient splitvertical Border
+window.active.button.pressed.bg.color: #DB8C69
+window.active.button.pressed.bg.color.splitTo: #C77D5D
+window.active.button.pressed.bg.colorTo: #A14949
+window.active.button.pressed.bg.colorTo.splitTo: #945F48
+window.active.button.pressed.bg.border.color: #A14949
+window.active.button.pressed.image.color: #f5f5f5
+
+window.active.button.toggled.pressed.bg: Flat Gradient splitvertical Border
+window.active.button.toggled.pressed.bg.color: #DB8C69
+window.active.button.toggled.pressed.bg.color.splitTo: #C77D5D
+window.active.button.toggled.pressed.bg.colorTo: #A14949
+window.active.button.toggled.pressed.bg.colorTo.splitTo: #945F48
+window.active.button.toggled.pressed.bg.border.color: #A14949
+window.active.button.toggled.pressed.image.color: #f5f5f5
+
+window.active.button.disabled.bg: Flat Gradient splitvertical Border
+window.active.button.disabled.bg.color: #46A0DB
+window.active.button.disabled.bg.color.splitTo: #4093C9
+window.active.button.disabled.bg.colorTo: #377CAB
+window.active.button.disabled.bg.colorTo.splitTo: #2F6C94
+window.active.button.disabled.bg.border.color: #377CAB
+window.active.button.disabled.image.color: #f7f7f7
+
+window.active.button.hover.bg: Flat Gradient splitvertical Border
+window.active.button.hover.bg.color: #DB7346
+window.active.button.hover.bg.color.splitTo: #C96940
+window.active.button.hover.bg.colorTo: #AB5A37
+window.active.button.hover.bg.colorTo.splitTo: #944D2F
+window.active.button.hover.bg.border.color: #AB5A37
+window.active.button.hover.image.color: #ffffff
+
+window.active.button.toggled.hover.bg: Flat Gradient splitvertical Border
+window.active.button.toggled.hover.bg.color: #DB7346
+window.active.button.toggled.hover.bg.color.splitTo: #C96940
+window.active.button.toggled.hover.bg.colorTo: #AB5A37
+window.active.button.toggled.hover.bg.colorTo.splitTo: #944D2F
+window.active.button.toggled.hover.bg.border.color: #AB5A37
+window.active.button.toggled.hover.image.color: #ffffff
+
+window.inactive.button.unpressed.bg: Flat Gradient splitvertical Border
+window.inactive.button.unpressed.bg.color: #D9D9D9
+window.inactive.button.unpressed.bg.color.splitTo: #C4C4C4
+window.inactive.button.unpressed.bg.colorTo: #A8A8A8
+window.inactive.button.unpressed.bg.colorTo.splitTo: #919191
+window.inactive.button.unpressed.bg.border.color: #A8A8A8
+window.inactive.button.unpressed.image.color: #ededed
+
+window.inactive.button.toggled.unpressed.bg: Flat Gradient splitvertical Border
+window.inactive.button.toggled.unpressed.bg.color: #D9D9D9
+window.inactive.button.toggled.unpressed.bg.color.splitTo: #C4C4C4
+window.inactive.button.toggled.unpressed.bg.colorTo: #A8A8A8
+window.inactive.button.toggled.unpressed.bg.colorTo.splitTo: #919191
+window.inactive.button.toggled.unpressed.bg.border.color: #A8A8A8
+window.inactive.button.toggled.unpressed.image.color: #ededed
+
+window.inactive.button.pressed.bg: Flat Gradient splitvertical Border
+window.inactive.button.pressed.bg.color: #D9D9D9
+window.inactive.button.pressed.bg.color.splitTo: #C2C2C2
+window.inactive.button.pressed.bg.colorTo: #9E9E9E
+window.inactive.button.pressed.bg.colorTo.splitTo: #8F8F8F
+window.inactive.button.pressed.bg.border.color: #9E9E9E
+window.inactive.button.pressed.image.color: #ededed
+
+window.inactive.button.toggled.pressed.bg: Flat Gradient splitvertical Border
+window.inactive.button.toggled.pressed.bg.color: #D9D9D9
+window.inactive.button.toggled.pressed.bg.color.splitTo: #C2C2C2
+window.inactive.button.toggled.pressed.bg.colorTo: #9E9E9E
+window.inactive.button.toggled.pressed.bg.colorTo.splitTo: #8F8F8F
+window.inactive.button.toggled.pressed.bg.border.color: #9E9E9E
+window.inactive.button.toggled.pressed.image.color: #ededed
+
+window.inactive.button.disabled.bg: Flat Gradient splitvertical Border
+window.inactive.button.disabled.bg.color: #D9D9D9
+window.inactive.button.disabled.bg.color.splitTo: #C4C4C4
+window.inactive.button.disabled.bg.colorTo: #A8A8A8
+window.inactive.button.disabled.bg.colorTo.splitTo: #919191
+window.inactive.button.disabled.bg.border.color: #A8A8A8
+window.inactive.button.disabled.image.color: #ededed
+
+window.inactive.button.hover.bg: Flat Gradient splitvertical Border
+window.inactive.button.hover.bg.color: #D9D9D9
+window.inactive.button.hover.bg.color.splitTo: #C2C2C2
+window.inactive.button.hover.bg.colorTo: #9E9E9E
+window.inactive.button.hover.bg.colorTo.splitTo: #8F8F8F
+window.inactive.button.hover.bg.border.color: #9E9E9E
+window.inactive.button.hover.image.color: #f5f5f5
+
+window.inactive.button.toggled.hover.bg: Flat Gradient splitvertical Border
+window.inactive.button.toggled.hover.bg.color: #D9D9D9
+window.inactive.button.toggled.hover.bg.color.splitTo: #C2C2C2
+window.inactive.button.toggled.hover.bg.colorTo: #9E9E9E
+window.inactive.button.toggled.hover.bg.colorTo.splitTo: #8F8F8F
+window.inactive.button.toggled.hover.bg.border.color: #9E9E9E
+window.inactive.button.toggled.hover.image.color: #f5f5f5
+
+!! Borders
+window.active.border.color: #3A87BA
+window.inactive.border.color: #BABABA
+window.active.title.separator.color: #3A87BA
+window.inactive.title.separator.color: #BABABA
+border.width: 1
+menu.border.width: 1
+padding.width: 1
+padding.height: 2
+window.handle.width: 1
+window.active.client.color:  #3A87BA
+window.inactive.client.color:  #BABABA
+window.client.padding.width: 1
+window.client.padding.height: 1
+menu.overlap: 0
+
+window.active.handle.bg:                                        parentrelative
+window.active.handle.bg.color:                                  #CECECE
+
+window.active.grip.bg:                                          flat vertical gradient
+window.active.grip.bg.color:                                    #4091C7
+window.active.grip.bg.colorTo:                                  #3982B3
+
+window.inactive.handle.bg:                                      parentrelative
+window.inactive.handle.bg.color:                                #CECECE
+
+window.inactive.grip.bg:                                        flat vertical gradient
+window.inactive.grip.bg.color:                                  #C4C4C4
+window.inactive.grip.bg.colorTo:                                #ADADAD
+
+!! On-screen displays
+osd.bg: flat vertical gradient
+osd.bg.color: #5396d5
+osd.bg.colorTo: #4D8AC4

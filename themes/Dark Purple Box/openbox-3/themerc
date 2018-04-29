@@ -1,0 +1,146 @@
+!! Fork of Ia Ora Night OpenBox Theme.
+
+# fonts
+window.active.label.text.font:shadow=y:shadowtint=20:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=00:shadowoffset=0
+menu.title.text.font:shadow=0:shadowtint=20:shadowoffset=1
+menu.items.font:shadow=n
+
+border.width: 1 
+padding.width: 2 
+padding.height: 2 
+window.handle.width: 1 
+menu.overlap: 0
+*.justify: center
+*.bg.highlight: 50
+*.bg.shadow:    01
+window.active.border.color: #272f4f
+window.inactive.border.color: #4A4A4A
+window.active.client.color:  #272f4f
+window.inactive.client.color:  #4A4A4A
+window.client.padding.width: 1
+window.client.padding.height: 1
+
+# menu
+menu.border.color: #0E294F
+menu.border.width: 1
+
+menu.title.bg: gradient splitvertical gradient flat
+menu.title.bg.color: #586088
+menu.title.bg.colorTo: #272f4f
+menu.title.text.color: #F7F7F7
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #EDEDED
+menu.items.text.color: #000000
+menu.items.disabled.text.color: #595959
+
+menu.items.active.bg: gradient splitvertical gradient flat
+menu.items.active.bg.color: #586088
+menu.items.active.bg.colorTo: #272f4f
+menu.items.active.bg.border.color: #272f4f
+
+menu.items.active.text.color: #FFFFFF
+menu.items.active.disabled.text.color: #DEDEDE
+
+# active titles
+window.active.border.color: #272f4f
+window.active.title.separator.color: #272f4f
+
+window.active.title.bg: gradient splitvertical gradient flat
+window.active.title.bg.color: #586088
+window.active.title.bg.colorTo: #272f4f
+
+window.active.title.bg.highlight: 35
+window.active.title.bg.shadow:    00
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #F7F7F7
+
+window.active.handle.bg: gradient splitvertical gradient flat
+window.active.handle.bg.color: #586088
+window.active.handle.bg.colorTo: #272f4f
+
+# inactive titles
+window.inactive.border.color: #4A4A4A
+window.inactive.title.separator.color: #4A4A4A
+
+window.inactive.title.bg: gradient splitvertical gradient flat
+window.inactive.title.bg.color: #858585
+window.inactive.title.bg.colorTo: #4A4A4A
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #ededed
+
+window.inactive.handle.bg: gradient splitvertical gradient flat
+window.inactive.handle.bg.color: #858585
+window.inactive.handle.bg.colorTo: #4A4A4A
+
+window.*.grip.bg: raised solid 
+window.*.grip.bg.color: #DEDEDE
+
+!! Window buttons
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.image.color: #F7F7F7
+
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.unpressed.image.color: #F7F7F7
+
+window.active.button.pressed.bg: gradient splitvertical gradient flat
+window.active.button.pressed.bg.color: #49548A
+window.active.button.pressed.bg.colorTo: #3E4673
+window.active.button.pressed.image.color: #F5F5F5
+
+window.active.button.toggled.pressed.bg: gradient splitvertical gradient flat
+window.active.button.toggled.pressed.bg.color: #49548A
+window.active.button.toggled.pressed.bg.colorTo: #3E4673
+window.active.button.toggled.pressed.image.color: #F5F5F5
+
+window.active.button.hover.bg: gradient splitvertical gradient flat
+window.active.button.hover.bg.color: #3F4C8A
+window.active.button.hover.bg.colorTo: #353F73
+window.active.button.hover.image.color: #FFFFFF
+
+window.active.button.toggled.hover.bg: gradient splitvertical gradient flat
+window.active.button.toggled.hover.bg.color: #3F4C8A
+window.active.button.toggled.hover.bg.colorTo: #353F73
+window.active.button.toggled.hover.image.color: #FFFFFF
+
+window.active.button.disabled.bg: parentrelative
+window.active.button.disabled.image.color: #F7F7F7
+
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.unpressed.image.color: #EDEDED
+
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.unpressed.image.color: #EDEDED
+
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.pressed.image.color: #EDEDED
+
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.pressed.image.color: #EDEDED
+
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.hover.image.color: #f5f5f5
+
+window.inactive.button.toggled.hover.bg: parentrelative
+window.inactive.button.toggled.hover.image.color: #f5f5f5
+
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.disabled.image.color: #ededed
+
+# osd
+osd.border.width: 1
+osd.border.color:  #0E294F
+
+osd.bg: flat
+osd.bg.color: #EDEDED
+
+osd.active.label.bg: gradient splitvertical gradient flat
+osd.active.label.bg.color: #586088
+osd.active.label.bg.colorTo: #272f4f
+osd.active.label.bg.border.color: #272f4f
+osd.active.label.text.color: #F7F7F7
+osd.inactive.label.bg: parentrelative
+osd.inactive.label.text.color: #EDEDED

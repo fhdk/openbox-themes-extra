@@ -1,0 +1,70 @@
+!!General
+
+window.handle.width: 0
+border.Width: 1
+padding.width: 2
+padding.height: 2
+menu.overlap: 2
+border.color: #000000
+
+*.text.justify: center
+window.client.padding.width: 2
+window.client.padding.height: 2
+window.*.client.color:  #d4d0c8
+window.*.title.separator.color: #d4d0c8
+
+!!Menu
+menu.title.bg: flat gradient horizontal border
+menu.title.bg.color: #0a246a
+menu.title.bg.colorTo: #a6caf0
+menu.title.text.color: #eeeeee
+menu.title.bg.border.color: #d4d0c8
+
+menu.items.bg: raised solid
+menu.items.bg.color: #d4d0c8
+menu.items.text.color: #111111
+menu.items.disabled.text.color: #808080
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #0a246a
+menu.items.active.text.color: #eeeeee
+
+!!Window
+window.*.title.bg: flat solid
+window.*.title.bg.color: #d4d0c8
+window.active.*.text.color: #f7f7f7
+window.inactive.*.text.color: #2B2B2B
+
+!!Label
+window.*.label.bg: gradient horizontal flat border
+window.*.label.bg.border.color: #d4d0c8
+window.active.label.bg.color: #0a246a
+window.active.label.bg.colorTo: #a6caf0
+window.inactive.label.bg.color: #808080
+window.inactive.label.bg.colorTo: #c0c0c0
+
+!!Button
+window.*.button.*.bg: gradient diagonal raised
+window.*.button.*.bg.color: #dad7d0
+window.*.button.*.bg.colorTo: #b4b1aa
+window.*.button.*.image.color: #000000
+
+window.*.button.pressed.bg: gradient diagonal sunken
+window.*.button.pressed.bg.color: #b4b1aa
+window.*.button.pressed.bg.colorTo: #dad7d0
+window.*.button.disabled.image.color: #808080
+
+!!Osd
+osd.*.bg: solid raised
+osd.*.bg.color: #d4d0c8
+osd.label.text.color: #111111
+osd.label.bg: solid sunken
+
+osd.unhilight.bg: gradient diagonal raised
+osd.unhilight.bg.color: #dad7d0
+osd.unhilight.bg.colorTo: #b4b1aa
+
+osd.hilight.bg: gradient diagonal sunken
+osd.hilight.bg.color: #b4b1aa
+osd.hilight.bg.colorTo: #dad7d0
+
